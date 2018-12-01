@@ -1,0 +1,51 @@
+{
+ "kind": "youtube#commentListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HDzGZnXGNKH4zuSROF-lgcRQ2Wo\"",
+ "pageInfo": {
+  "resultsPerPage": 20
+ },
+ "items": [
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Olui-sH1Vyf07umFXLrVCe2MaPw\"",
+   "id": "UgxkklaKVLoDEX7jq5p4AaABAg.8kjk7MaHMp08kqx0CsyVO8",
+   "snippet": {
+    "authorDisplayName": "Mariangela Giannuzzi",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-IEn0dEcQDzc/AAAAAAAAAAI/AAAAAAAAAAA/_nk5p1jSZio/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCA-UKjDL_Mdq-gvXIjN5h4Q",
+    "authorChannelId": {
+     "value": "UCA-UKjDL_Mdq-gvXIjN5h4Q"
+    },
+    "textDisplay": "+uccia3000 \u003cbr /\u003eGrazie mille! L&#39;ho preparata stamattina con lo sciroppo alla menta. È molto molto buona .",
+    "textOriginal": "+uccia3000 \nGrazie mille! L'ho preparata stamattina con lo sciroppo alla menta. È molto molto buona .",
+    "parentId": "UgxkklaKVLoDEX7jq5p4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-09-06T10:48:19.000Z",
+    "updatedAt": "2018-09-06T10:48:19.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3B2D-yIVxUwaNbkseNLL6DANbEA\"",
+   "id": "UgxkklaKVLoDEX7jq5p4AaABAg.8kjk7MaHMp08kor4TiQCKg",
+   "snippet": {
+    "authorDisplayName": "uccia3000",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-RkiIYjJIGVA/AAAAAAAAAAI/AAAAAAAAAAA/7lzaN-4UhzQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCmv1ixTUXRJvk10N9QMrIgQ",
+    "authorChannelId": {
+     "value": "UCmv1ixTUXRJvk10N9QMrIgQ"
+    },
+    "textDisplay": "ciao, puoi utilizzare tranquillamente lo sciroppo di menta o mandorla",
+    "textOriginal": "ciao, puoi utilizzare tranquillamente lo sciroppo di menta o mandorla",
+    "parentId": "UgxkklaKVLoDEX7jq5p4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-09-05T15:17:59.000Z",
+    "updatedAt": "2018-09-05T15:17:59.000Z"
+   }
+  }
+ ]
+}

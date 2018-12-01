@@ -1,0 +1,19 @@
+{
+    "sentiment": 5,
+    "sentence": "Bellissimo video",
+    "distr": [
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "splitSentences": [],
+    "weightedSentiment": 0,
+    "topics": [
+        {
+            "sentiment": 5,
+            "word": "video"
+        }
+    ]
+}

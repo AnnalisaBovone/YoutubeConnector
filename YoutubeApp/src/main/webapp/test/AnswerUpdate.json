@@ -1,0 +1,51 @@
+{
+ "kind": "youtube#commentListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/EWS5yzKWQtjrEXPQVQg_RX6Y7A8\"",
+ "pageInfo": {
+  "resultsPerPage": 20
+ },
+ "items": [
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/e8Vq6Cmjp4a9IuPE38SSiw49oL0\"",
+   "id": "UgzDUbfqaEILi43pdHJ4AaABAg.8kZiJlHGVEK8kZiLdl4-u7",
+   "snippet": {
+    "authorDisplayName": "Annalisa Bovone",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-rdoYKfydJEE/AAAAAAAAAAI/AAAAAAAAAAA/1qXfegOJ4T0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCnlgdfqucEal83r8MvcBXtQ",
+    "authorChannelId": {
+     "value": "UCnlgdfqucEal83r8MvcBXtQ"
+    },
+    "textDisplay": "risposta update",
+    "textOriginal": "risposta update",
+    "parentId": "UgzDUbfqaEILi43pdHJ4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-08-30T08:53:50.000Z",
+    "updatedAt": "2018-08-31T08:53:50.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hZZexMmSxtuyFncphn08sg5XwRU\"",
+   "id": "UgzDUbfqaEILi43pdHJ4AaABAg.8kZiJlHGVEK8kZiKkMYHvJ",
+   "snippet": {
+    "authorDisplayName": "Annalisa Bovone",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-rdoYKfydJEE/AAAAAAAAAAI/AAAAAAAAAAA/1qXfegOJ4T0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCnlgdfqucEal83r8MvcBXtQ",
+    "authorChannelId": {
+     "value": "UCnlgdfqucEal83r8MvcBXtQ"
+    },
+    "textDisplay": "risposta 1",
+    "textOriginal": "risposta 1",
+    "parentId": "UgzDUbfqaEILi43pdHJ4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 1,
+    "publishedAt": "2018-08-30T08:53:43.000Z",
+    "updatedAt": "2018-08-30T08:53:43.000Z"
+   }
+  }
+ ]
+}

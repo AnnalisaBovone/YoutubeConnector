@@ -1,0 +1,14 @@
+{
+    "sentiment": 6,
+    "sentence": "Ciao",
+    "distr": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "splitSentences": [],
+    "weightedSentiment": 0,
+    "topics": []
+}

@@ -1,0 +1,59 @@
+{
+ "kind": "youtube#channelListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_BMgAQqiBn_CiceRYPJwrhaElNI\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#channel",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QJRIMyTQ284fOflxAg3qMjyHnms\"",
+   "id": "UC76vuUkGWnPUDFWcgM2_yMg",
+   "snippet": {
+    "title": "GialloZafferano",
+    "description": "Questo è il canale youtube di GialloZafferano, il sito di cucina numero 1 in Italia!\nVieni a scoprire le tantissime videoricette, dagli antipasti ai secondi, dai primi al dessert!\nChe cosa aspetti? Iscriviti e...  buon appetito!",
+    "customUrl": "GialloZafferanoTV",
+    "publishedAt": "2009-07-31T20:59:45.000Z",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/a-/AN66SAyOOo_qjR3Bd-QdmNnpU7K4oyXblaJXKIBSBA=s88-mo-c-c0xffffffff-rj-k-no",
+      "width": 88,
+      "height": 88
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/a-/AN66SAyOOo_qjR3Bd-QdmNnpU7K4oyXblaJXKIBSBA=s240-mo-c-c0xffffffff-rj-k-no",
+      "width": 240,
+      "height": 240
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/a-/AN66SAyOOo_qjR3Bd-QdmNnpU7K4oyXblaJXKIBSBA=s800-mo-c-c0xffffffff-rj-k-no",
+      "width": 800,
+      "height": 800
+     }
+    },
+    "localized": {
+     "title": "GialloZafferano",
+     "description": "Questo è il canale youtube di GialloZafferano, il sito di cucina numero 1 in Italia!\nVieni a scoprire le tantissime videoricette, dagli antipasti ai secondi, dai primi al dessert!\nChe cosa aspetti? Iscriviti e...  buon appetito!"
+    },
+    "country": "IT"
+   },
+   "contentDetails": {
+    "relatedPlaylists": {
+     "likes": "LL76vuUkGWnPUDFWcgM2_yMg",
+     "favorites": "FL76vuUkGWnPUDFWcgM2_yMg",
+     "uploads": "UU76vuUkGWnPUDFWcgM2_yMg",
+     "watchHistory": "HL",
+     "watchLater": "WL"
+    }
+   },
+   "statistics": {
+    "viewCount": "102376155",
+    "commentCount": "0",
+    "subscriberCount": "502987",
+    "hiddenSubscriberCount": false,
+    "videoCount": "1161"
+   }
+  }
+ ]
+}

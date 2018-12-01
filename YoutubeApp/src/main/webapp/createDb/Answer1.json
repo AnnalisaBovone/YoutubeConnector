@@ -1,0 +1,30 @@
+{
+ "kind": "youtube#commentListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ecg07FMHX_OquhKObijxkI1WRXA\"",
+ "pageInfo": {
+  "resultsPerPage": 20
+ },
+ "items": [
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DYxAok4n4Y35Av7eq8LzNXd1c9Y\"",
+   "id": "UgyC2Nozv0K5m8SN4LN4AaABAg.8kmtOXn5sLx8konlSlOWiy",
+   "snippet": {
+    "authorDisplayName": "uccia3000",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-RkiIYjJIGVA/AAAAAAAAAAI/AAAAAAAAAAA/7lzaN-4UhzQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCmv1ixTUXRJvk10N9QMrIgQ",
+    "authorChannelId": {
+     "value": "UCmv1ixTUXRJvk10N9QMrIgQ"
+    },
+    "textDisplay": "ciao, puoi utilizzare tranquillamente la panna hoplà",
+    "textOriginal": "ciao, puoi utilizzare tranquillamente la panna hoplà",
+    "parentId": "UgyC2Nozv0K5m8SN4LN4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-09-05T14:49:02.000Z",
+    "updatedAt": "2018-09-05T14:49:02.000Z"
+   }
+  }
+ ]
+}

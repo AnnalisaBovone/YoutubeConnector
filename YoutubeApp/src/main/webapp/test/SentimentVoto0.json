@@ -1,0 +1,14 @@
+{
+    "sentiment": 0,
+    "sentence": "Hai assaggiato la bevanda Rivella?",
+    "distr": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "splitSentences": [],
+    "weightedSentiment": 0,
+    "topics": []
+}

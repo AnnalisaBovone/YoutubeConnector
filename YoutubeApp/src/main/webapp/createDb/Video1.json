@@ -1,0 +1,91 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/FRoKovtNzH5fRmTWBg0l-7O0q2I\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xZSqRWVrbhiwy-OoWdr3L5SedUY\"",
+   "id": "jWYPs_rIKaQ",
+   "snippet": {
+    "publishedAt": "2018-09-03T12:00:04.000Z",
+    "channelId": "UCmv1ixTUXRJvk10N9QMrIgQ",
+    "title": "TORTA FREDDA MENTA e CIOCCOLATO,  Ricetta Facile Senza Cottura",
+    "description": "La Torta fredda senza cottura menta e cioccolato è un'irresistibile delizia! \nE' un dolce molto veloce da preparare ma allo stesso tempo golosissimo,amata  da grandi e bambini\n\ningredienti guscio:\n260 gr di biscotti secchi al cacao\n130 gr di burro fuso\n\ningredienti farcia e decorazione:\n400 ml di panna vegetale già zuccherata bella fredda di frigo\n125 ml di yogurt bianco\n70 ml di sciroppo di menta\ncioccolalto fondente fuso\nfoglioline di menta fresca\n\nKênh: uccia3000\n♥ LISTA AMAZON: https://www.amazon.it/hz/wishlist/ls/2O29NDIDH89YA?&sort=default\n\n♥ Il mio sito internet: http://www.uccia3000.it/\n\n👩\u200d💻 ISCRIVITI AL MIO CANALE YOUTUBE 👉🏻 \nhttps://www.youtube.com/channel/UCmv1ixTUXRJvk10N9QMrIgQ\n \n♥ FACEBOOK: https://www.facebook.com/groups/499752853456692/\n\n♥ INSTAGRAM: https://www.instagram.com/uccia3000/?hl=it\n\n♥ PINTEREST: https://it.pinterest.com/uccia3000/\n\n🍰 PUOI ACQUISTARE IL MIO LIBRO DI RICETTE \" LE DELIZIE DI UCCIA3000 \" contattandomi tramite mail:   uccia3000@yahoo.it  🍰\n\n♥ ✏️✉ Business and Marketing mail: uccia3000@yahoo.it\n\n❤️ Grazie a tutti per aver visto questo video vi abbraccio tutti e al prossimo video ❤️ uccia3000@yahoo.it",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jWYPs_rIKaQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jWYPs_rIKaQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jWYPs_rIKaQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jWYPs_rIKaQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "uccia3000",
+    "tags": [
+     "ricette facili e veloci",
+     "ricette natale",
+     "ricette bimby",
+     "uccia3000",
+     "pan di spagna soffice e alto",
+     "giallo zafferano",
+     "Ciambelline Graffe sofficissime",
+     "senza cottura",
+     "benedetta",
+     "CHEESECAKE MENTA",
+     "Ricetta Facile Senza Cottura",
+     "Mint Chocolate Cheesecake",
+     "CHEESECAKE MENTA CIOCCOLATO",
+     "torta fredda cioccoolato e menta",
+     "chocolate cheesecake",
+     "cheesecake cioccolato",
+     "ricetta torta cheesecake",
+     "cheesecake",
+     "ricetta cheesecake",
+     "No Bake Easy Recipe",
+     "dolce senza forno",
+     "torta senza forno"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "it",
+    "localized": {
+     "title": "TORTA FREDDA MENTA e CIOCCOLATO,  Ricetta Facile Senza Cottura",
+     "description": "La Torta fredda senza cottura menta e cioccolato è un'irresistibile delizia! \nE' un dolce molto veloce da preparare ma allo stesso tempo golosissimo,amata  da grandi e bambini\n\ningredienti guscio:\n260 gr di biscotti secchi al cacao\n130 gr di burro fuso\n\ningredienti farcia e decorazione:\n400 ml di panna vegetale già zuccherata bella fredda di frigo\n125 ml di yogurt bianco\n70 ml di sciroppo di menta\ncioccolalto fondente fuso\nfoglioline di menta fresca\n\nKênh: uccia3000\n♥ LISTA AMAZON: https://www.amazon.it/hz/wishlist/ls/2O29NDIDH89YA?&sort=default\n\n♥ Il mio sito internet: http://www.uccia3000.it/\n\n👩\u200d💻 ISCRIVITI AL MIO CANALE YOUTUBE 👉🏻 \nhttps://www.youtube.com/channel/UCmv1ixTUXRJvk10N9QMrIgQ\n \n♥ FACEBOOK: https://www.facebook.com/groups/499752853456692/\n\n♥ INSTAGRAM: https://www.instagram.com/uccia3000/?hl=it\n\n♥ PINTEREST: https://it.pinterest.com/uccia3000/\n\n🍰 PUOI ACQUISTARE IL MIO LIBRO DI RICETTE \" LE DELIZIE DI UCCIA3000 \" contattandomi tramite mail:   uccia3000@yahoo.it  🍰\n\n♥ ✏️✉ Business and Marketing mail: uccia3000@yahoo.it\n\n❤️ Grazie a tutti per aver visto questo video vi abbraccio tutti e al prossimo video ❤️ uccia3000@yahoo.it"
+    },
+    "defaultAudioLanguage": "it"
+   },
+   "contentDetails": {
+    "duration": "PT3M5S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "13217",
+    "likeCount": "976",
+    "dislikeCount": "31",
+    "favoriteCount": "0",
+    "commentCount": "39"
+   }
+  }
+ ]
+}

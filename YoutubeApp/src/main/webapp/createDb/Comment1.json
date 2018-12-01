@@ -1,0 +1,650 @@
+{
+ "kind": "youtube#commentThreadListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NXPOL0YfinJiqNfukBtbKivXE8o\"",
+ "pageInfo": {
+  "totalResults": 20,
+  "resultsPerPage": 20
+ },
+ "items": [
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JfcSTHvyje2FWsXC5Z4p_gfBEhM\"",
+   "id": "UgyC2Nozv0K5m8SN4LN4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hVMdiHSRIgpSAUnBQtwvzDNTo30\"",
+     "id": "UgyC2Nozv0K5m8SN4LN4AaABAg",
+     "snippet": {
+      "authorDisplayName": "pra tolina",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-g24lC8Lw9Kc/AAAAAAAAAAI/AAAAAAAAAAA/04xJY6JFHTU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCsKFF1Kb6zpukvN8fRQpblA",
+      "authorChannelId": {
+       "value": "UCsKFF1Kb6zpukvN8fRQpblA"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Va bene la panna oplà?",
+      "textOriginal": "Va bene la panna oplà?",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-04T20:59:43.000Z",
+      "updatedAt": "2018-09-04T20:59:43.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/iXq9CplJMWpxfTb3f2RCCUAoe4c\"",
+   "id": "UgwukZh1kbccwitl7rl4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/IF7bqn7rqOsx85x_r7vluzfa13E\"",
+     "id": "UgwukZh1kbccwitl7rl4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Miriam Lanzarotti",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-mowkFnE1XGQ/AAAAAAAAAAI/AAAAAAAAAAA/VopK2LZ2CqI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCcGZTi4QxYq1xbIfYPGzp9Q",
+      "authorChannelId": {
+       "value": "UCcGZTi4QxYq1xbIfYPGzp9Q"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Bravissima ❤",
+      "textOriginal": "Bravissima ❤",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-04T14:50:30.000Z",
+      "updatedAt": "2018-09-04T14:50:30.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/cXGSE9TaquAf2lDpKUqciLezPEc\"",
+   "id": "UgxFkjcNxQ_Fa7wkzWp4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/0a_uBoi5EZqo_SlUsbBLL-dV3HU\"",
+     "id": "UgxFkjcNxQ_Fa7wkzWp4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Monika Brunner",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-MzdtDRO4sWg/AAAAAAAAAAI/AAAAAAAAAAA/EPb7uDCXsd0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCpwiV8lXJumuohKp0uWZr8Q",
+      "authorChannelId": {
+       "value": "UCpwiV8lXJumuohKp0uWZr8Q"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Golossima,la terrò presente x la prossima estate ormai da me fa é quasi arrivato l&#39;autunno.",
+      "textOriginal": "Golossima,la terrò presente x la prossima estate ormai da me fa é quasi arrivato l'autunno.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-04T12:38:44.000Z",
+      "updatedAt": "2018-09-04T12:38:44.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JmFfmU3v9jHyDmiaJWujiw04wWQ\"",
+   "id": "UgyHNYmK2mQvnuM5RHN4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Vqlpnp2aLM3EdsXdHCyyWCP59cg\"",
+     "id": "UgyHNYmK2mQvnuM5RHN4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Elisabetta Rossi",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-2QoFydIpbAE/AAAAAAAAAAI/AAAAAAAAAAA/MWtOM_NFqQ8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCugI9e0gCcMVVThjZ8JDCLg",
+      "authorChannelId": {
+       "value": "UCugI9e0gCcMVVThjZ8JDCLg"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Menta e cioccolato.... un connubio fantastico 😍😛😋",
+      "textOriginal": "Menta e cioccolato.... un connubio fantastico 😍😛😋",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-04T06:32:39.000Z",
+      "updatedAt": "2018-09-04T06:32:39.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/L1UbhJ9YWHOqGvFGTz9QZ9N9Iz4\"",
+   "id": "UgyVjHch4doSb_eAALp4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XB5GMaf6hKw3EhuWsjAI_RdBqh4\"",
+     "id": "UgyVjHch4doSb_eAALp4AaABAg",
+     "snippet": {
+      "authorDisplayName": "MAKEKAZ",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-W8o9ANM9lWw/AAAAAAAAAAI/AAAAAAAAAAA/Sd4cGmMkynk/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCY6eRm9dZRs_I4tvp_DcdSQ",
+      "authorChannelId": {
+       "value": "UCY6eRm9dZRs_I4tvp_DcdSQ"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Bravissima come sempre Uccia continua così sei la N. 1 Uccia the best 🔝",
+      "textOriginal": "Bravissima come sempre Uccia continua così sei la N. 1 Uccia the best 🔝",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-03T21:13:06.000Z",
+      "updatedAt": "2018-09-03T21:13:06.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/uqDq4q-QtaHl63uGe193qL12M3Y\"",
+   "id": "UgzaAfLLX8oS3RPXkxZ4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/E2zWzhJy-0vgEHOFmBQj59hmps0\"",
+     "id": "UgzaAfLLX8oS3RPXkxZ4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Nella Angy",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-CRGczYjsTkk/AAAAAAAAAAI/AAAAAAAAAAA/sosYkkw1wAw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCoWXjBSywngenumtctnRhBA",
+      "authorChannelId": {
+       "value": "UCoWXjBSywngenumtctnRhBA"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Grazie uccia, sempre perfette le ricette!",
+      "textOriginal": "Grazie uccia, sempre perfette le ricette!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-03T21:05:45.000Z",
+      "updatedAt": "2018-09-03T21:05:45.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/K74Zu6ml2_VR8HGn5CgJXfNffLs\"",
+   "id": "UgyRK0FVrukOYGoW93t4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BHyMcKql3wV84nzkz_NvQAwqOlc\"",
+     "id": "UgyRK0FVrukOYGoW93t4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Valentina Ricci 💋",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-BJgy9rfFdkk/AAAAAAAAAAI/AAAAAAAAAAA/wJGpfEBLcFM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCeZ_cppK-zTvPiz2RtN83_Q",
+      "authorChannelId": {
+       "value": "UCeZ_cppK-zTvPiz2RtN83_Q"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Buonissima😍😍😍 adoro l&#39;abbinamento tra la cioccolata e la menta 😋\u003cbr /\u003ePS. belle le calamite sul frigo ❤",
+      "textOriginal": "Buonissima😍😍😍 adoro l'abbinamento tra la cioccolata e la menta 😋\nPS. belle le calamite sul frigo ❤",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-03T18:12:59.000Z",
+      "updatedAt": "2018-09-03T18:12:59.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7Q-8d0FtfJhXGEJHXjUlaDyzpOA\"",
+   "id": "Ugy1IwqTLYC8DVOIc114AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DsIw8To9Alw3tiltAigON1J2Ckc\"",
+     "id": "Ugy1IwqTLYC8DVOIc114AaABAg",
+     "snippet": {
+      "authorDisplayName": "Isabella",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-7ui300cyXpU/AAAAAAAAAAI/AAAAAAAAAAA/eGFO4NdYIig/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC89YzCTwv-Nxa9Df-C1wQHw",
+      "authorChannelId": {
+       "value": "UC89YzCTwv-Nxa9Df-C1wQHw"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Ricetta vista e stravista, niente di nuovo, anzi direi piuttosto scopiazzata qua e là 🤫🤫🤫",
+      "textOriginal": "Ricetta vista e stravista, niente di nuovo, anzi direi piuttosto scopiazzata qua e là 🤫🤫🤫",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-03T17:53:53.000Z",
+      "updatedAt": "2018-09-03T17:53:53.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/1nQ6z4KhjsQBdHJSPJjSyoypQcU\"",
+   "id": "UgwcrbnUFsagvkpHxIV4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OQrBiN2ZbNgM1TSRaxHJ7oQJVKI\"",
+     "id": "UgwcrbnUFsagvkpHxIV4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Ghiz Ghiz",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-BbHsGsDjvSE/AAAAAAAAAAI/AAAAAAAAAAA/2QawT8Jm3ks/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCBC8UqLxU0WJmmSKVjj9zAQ",
+      "authorChannelId": {
+       "value": "UCBC8UqLxU0WJmmSKVjj9zAQ"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Mmm buonaa",
+      "textOriginal": "Mmm buonaa",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-03T17:02:31.000Z",
+      "updatedAt": "2018-09-03T17:02:31.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fNcsh_uHWjgm7jQDp8LThrey8GI\"",
+   "id": "UgzK4C5LWWJjTQANSKZ4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6OnQ5nNzYMK-vOmBwTRfehsT_VM\"",
+     "id": "UgzK4C5LWWJjTQANSKZ4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Marilù Sidoti",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-QsXa2RyfK9s/AAAAAAAAAAI/AAAAAAAAAAA/ll8AdcvGcO8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCVwZJxdDaJgR0MPFDc9iP7w",
+      "authorChannelId": {
+       "value": "UCVwZJxdDaJgR0MPFDc9iP7w"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "UCCIA...la chiamerei torta del ricordo....sai perché? Quando ero piccola mia mamma, in estate, per merenda, mi preparava latte e menta ed una fetta di pane con un velo di cioccolata ! Duplice emozione x la mente ed il palato! In una rinomata gelateria della mia zona sono soliti proporre al pubblico gelato gusto menta e cioccolato solo in estate! Ma con questa ricetta potrò deliziare il mio palato x tutto l anno!!!🤣😋😋 grazie di cuore!",
+      "textOriginal": "UCCIA...la chiamerei torta del ricordo....sai perché? Quando ero piccola mia mamma, in estate, per merenda, mi preparava latte e menta ed una fetta di pane con un velo di cioccolata ! Duplice emozione x la mente ed il palato! In una rinomata gelateria della mia zona sono soliti proporre al pubblico gelato gusto menta e cioccolato solo in estate! Ma con questa ricetta potrò deliziare il mio palato x tutto l anno!!!🤣😋😋 grazie di cuore!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2018-09-03T16:43:55.000Z",
+      "updatedAt": "2018-09-03T16:44:46.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ojbzKovqwvbI4xQelLAQ5EkRo9I\"",
+   "id": "Ugyo541ku6fUk_wZnmN4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/pM9lwnrzt7kTLKT9urwFv4Cs6YM\"",
+     "id": "Ugyo541ku6fUk_wZnmN4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Marina 71",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-ecdqLK54WPM/AAAAAAAAAAI/AAAAAAAAAAA/ewArbfjNOaQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC88Kdrp6LaBcooRaTM__5nQ",
+      "authorChannelId": {
+       "value": "UC88Kdrp6LaBcooRaTM__5nQ"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Ciao favolosa ucciaaaaa😘",
+      "textOriginal": "Ciao favolosa ucciaaaaa😘",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-03T16:39:43.000Z",
+      "updatedAt": "2018-09-03T16:39:43.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NLDp0PExr4d8uOfIfe82z_fYGxY\"",
+   "id": "Ugz5sHHMWIumNuB1_C94AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xkdfQT8Z-xjV7qy9c304Wp1wgEU\"",
+     "id": "Ugz5sHHMWIumNuB1_C94AaABAg",
+     "snippet": {
+      "authorDisplayName": "Khouas Ourida",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-pGn-jLrGBFw/AAAAAAAAAAI/AAAAAAAAAAA/fRBf4DEMLBA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCPs645nuNAhYmmQyGaGHBOQ",
+      "authorChannelId": {
+       "value": "UCPs645nuNAhYmmQyGaGHBOQ"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "😍😍😍😍🌹🌹🌹🌹🌷🌷🌷🌸🌸",
+      "textOriginal": "😍😍😍😍🌹🌹🌹🌹🌷🌷🌷🌸🌸",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-03T15:42:38.000Z",
+      "updatedAt": "2018-09-03T15:42:38.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/t9XubqwWBBpxAuTr1I9Ki1pIiJc\"",
+   "id": "UgxkklaKVLoDEX7jq5p4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/b_ToEgTfdyrj9WTzd2XYaDDY9-E\"",
+     "id": "UgxkklaKVLoDEX7jq5p4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Mariangela Giannuzzi",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-IEn0dEcQDzc/AAAAAAAAAAI/AAAAAAAAAAA/_nk5p1jSZio/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCA-UKjDL_Mdq-gvXIjN5h4Q",
+      "authorChannelId": {
+       "value": "UCA-UKjDL_Mdq-gvXIjN5h4Q"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Bravissima Uccia♡ , si puo&#39; sostituire lo sciroppo di menta con quello di amarena o mandorla ?",
+      "textOriginal": "Bravissima Uccia♡ , si puo' sostituire lo sciroppo di menta con quello di amarena o mandorla ?",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-03T15:41:01.000Z",
+      "updatedAt": "2018-09-03T15:41:01.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/eZWQvRyvaATaFirnFMxrIh7Ex-g\"",
+   "id": "UgwzfUdrWauJYI2zV2l4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OWYjRDdNsJYCbyPUUFjh6xxvDeo\"",
+     "id": "UgwzfUdrWauJYI2zV2l4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Loredana PianoBruno",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-YNCTHoWG2o8/AAAAAAAAAAI/AAAAAAAAAAA/14Zq7wbWJbY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC5GAON4Jq7GK4jQB1MaWGzQ",
+      "authorChannelId": {
+       "value": "UC5GAON4Jq7GK4jQB1MaWGzQ"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Ma non è altro che panna montata!!!",
+      "textOriginal": "Ma non è altro che panna montata!!!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2018-09-03T15:03:14.000Z",
+      "updatedAt": "2018-09-03T15:03:14.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 1,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/A3PEw5CIYZkGZ0pAWOaWSGDcVbc\"",
+   "id": "Ugx1zhNm9yJOgc_b3K94AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/tYqYPkbwMGCi5FwcVWPMdhWiI9M\"",
+     "id": "Ugx1zhNm9yJOgc_b3K94AaABAg",
+     "snippet": {
+      "authorDisplayName": "Teresa Pacillo",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-2tpuI4ia108/AAAAAAAAAAI/AAAAAAAAAAA/oLRtPZISMI4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCFJVsD45UqzDFbbjGKkpklg",
+      "authorChannelId": {
+       "value": "UCFJVsD45UqzDFbbjGKkpklg"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Buona brava😇😇😇",
+      "textOriginal": "Buona brava😇😇😇",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2018-09-03T14:58:27.000Z",
+      "updatedAt": "2018-09-03T14:58:27.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MqVlYYT9vv3x4iFbv_DpZadI7_0\"",
+   "id": "UgyEDnGuqG-iZhKVmXZ4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/st2PAtOISnW8mIrb_oBQoJEhFCk\"",
+     "id": "UgyEDnGuqG-iZhKVmXZ4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Maria Cucina",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-Vg7w4RLlwxA/AAAAAAAAAAI/AAAAAAAAAAA/h4pDbwCxGVw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCrJ-q86Fz07r5d3AVnBLMDQ",
+      "authorChannelId": {
+       "value": "UCrJ-q86Fz07r5d3AVnBLMDQ"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Wow complimentiii",
+      "textOriginal": "Wow complimentiii",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-03T14:48:38.000Z",
+      "updatedAt": "2018-09-03T14:48:38.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/eMdOOS6ZZtldb5HN-EguLYlB6eU\"",
+   "id": "UgwSQ7cQ7lx9r5pfG5J4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/O7N6WsRp6QHFZnXL5oeZ8RzV--E\"",
+     "id": "UgwSQ7cQ7lx9r5pfG5J4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Abraham Zuñiga",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-McnW9VdRBw4/AAAAAAAAAAI/AAAAAAAAAAA/ytZ9gwpj9jg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCnqPkau-KZ407jiMe8sfZSQ",
+      "authorChannelId": {
+       "value": "UCnqPkau-KZ407jiMe8sfZSQ"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "riquísima y que mujer tan hermosa, gracias por estar ahí!",
+      "textOriginal": "riquísima y que mujer tan hermosa, gracias por estar ahí!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-03T14:38:37.000Z",
+      "updatedAt": "2018-09-03T14:38:37.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/p1B-SrJOa83lhpL9vl-GBChw6l4\"",
+   "id": "Ugzl8FsslTLaJ3CbsAV4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8B8nCXInzCvUg8eJboZTcNm2cMA\"",
+     "id": "Ugzl8FsslTLaJ3CbsAV4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Tiziana Falaschi",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-fqHS_-DekDk/AAAAAAAAAAI/AAAAAAAAAAA/J3XCLukj1UY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCkKx5QcTSOBKcYfvAP21TSA",
+      "authorChannelId": {
+       "value": "UCkKx5QcTSOBKcYfvAP21TSA"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Questa  torta e &#39; buonissima !!! Facile da fare e bella da vedere! !! Complimenti Uccia sei bravissima!!! Ciao un abbraccio!!!♡♥♡♥",
+      "textOriginal": "Questa  torta e ' buonissima !!! Facile da fare e bella da vedere! !! Complimenti Uccia sei bravissima!!! Ciao un abbraccio!!!♡♥♡♥",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2018-09-03T13:45:52.000Z",
+      "updatedAt": "2018-09-03T13:45:52.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Wospu-YbySttuAClL5ATK_f04zk\"",
+   "id": "UgwWxKxo2ZxWXkbc_md4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/jFpX8NBAJEbEDa55bcddTvnwq9I\"",
+     "id": "UgwWxKxo2ZxWXkbc_md4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Rosy Avigliano",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-HjdOJmdvbhw/AAAAAAAAAAI/AAAAAAAAAAA/xZyH13CNshI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC5CSJVYNVAxjPLWnJlZ8gkA",
+      "authorChannelId": {
+       "value": "UC5CSJVYNVAxjPLWnJlZ8gkA"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "Bellissima idea. Buona e veloce. Grazie",
+      "textOriginal": "Bellissima idea. Buona e veloce. Grazie",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-09-03T13:11:45.000Z",
+      "updatedAt": "2018-09-03T13:11:45.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ahPhlODd7kebLSQKhSNQUF8rKZU\"",
+   "id": "UgyTDO_Fkczolz0rsxJ4AaABAg",
+   "snippet": {
+    "videoId": "jWYPs_rIKaQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DPZaoPBvOzTVxnnMjg6JvJH9w68\"",
+     "id": "UgyTDO_Fkczolz0rsxJ4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Paola Sicco",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-LKSMMPuTfsM/AAAAAAAAAAI/AAAAAAAAAAA/I9jTUV6wbJo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCQRkeQUf9eCr8Br352hG0Ag",
+      "authorChannelId": {
+       "value": "UCQRkeQUf9eCr8Br352hG0Ag"
+      },
+      "videoId": "jWYPs_rIKaQ",
+      "textDisplay": "WOW CHE MERAVIGLIA! ADORO CIOCCOLATO E MENTA! COME NON FARE QUESTA DELIZIA! CARISSIMA UCCIA,SEI SEMPRE FANTASTICA! GRAZIE MILLE PER LE TUE SPLENDIDE RICETTE! BUONA GIORNATA E A PRESTO! UN FORTISSIMO ABBRACCIO E BACIONI CIAO! 🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🏆😘😘😘😘😘💌💞💖💓❤💗😉😃😃😃😃",
+      "textOriginal": "WOW CHE MERAVIGLIA! ADORO CIOCCOLATO E MENTA! COME NON FARE QUESTA DELIZIA! CARISSIMA UCCIA,SEI SEMPRE FANTASTICA! GRAZIE MILLE PER LE TUE SPLENDIDE RICETTE! BUONA GIORNATA E A PRESTO! UN FORTISSIMO ABBRACCIO E BACIONI CIAO! 🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🏆😘😘😘😘😘💌💞💖💓❤💗😉😃😃😃😃",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 3,
+      "publishedAt": "2018-09-03T13:07:19.000Z",
+      "updatedAt": "2018-09-03T13:07:19.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  }
+ ]
+}

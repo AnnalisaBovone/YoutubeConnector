@@ -1,0 +1,42 @@
+{
+ "kind": "youtube#commentThreadListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/K6Qo7UTx6_BT403xaWfvORchO48\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 20
+ },
+ "items": [
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vdQ-Ak1Y1YFBXmhRKK4--pSLhXg\"",
+   "id": "UgzDUbfqaEILi43pdHJ4AaABAg",
+   "snippet": {
+    "videoId": "9JYPTJ4dSYQ",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/db6a1yk6TAcyngRx101tNuVThKk\"",
+     "id": "UgzDUbfqaEILi43pdHJ4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Annalisa Bovone",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-rdoYKfydJEE/AAAAAAAAAAI/AAAAAAAAAAA/1qXfegOJ4T0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCnlgdfqucEal83r8MvcBXtQ",
+      "authorChannelId": {
+       "value": "UCnlgdfqucEal83r8MvcBXtQ"
+      },
+      "videoId": "9JYPTJ4dSYQ",
+      "textDisplay": "commento 1",
+      "textOriginal": "commento 1",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2018-08-30T08:53:35.000Z",
+      "updatedAt": "2018-08-30T08:53:35.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 2,
+    "isPublic": true
+   }
+  }
+ ]
+}

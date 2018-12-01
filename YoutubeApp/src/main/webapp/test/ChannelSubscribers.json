@@ -1,0 +1,55 @@
+{
+ "kind": "youtube#channelListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HNJOXZwhNDBYnpbzhWS48EdaNtc\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#channel",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hwKWStedcYMpf6Xb4pSV3A9MWTc\"",
+   "id": "UCnlgdfqucEal83r8MvcBXtQ",
+   "snippet": {
+    "title": "Annalisa Bovone",
+    "description": "",
+    "publishedAt": "2012-05-13T16:24:12.000Z",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/a-/ACSszfES--iTs_ZfC-sog4CoHYmoWlppVKxCMX9YUg=s88-mo-c-c0xffffffff-rj-k-no",
+      "width": 88,
+      "height": 88
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/a-/ACSszfES--iTs_ZfC-sog4CoHYmoWlppVKxCMX9YUg=s240-mo-c-c0xffffffff-rj-k-no",
+      "width": 240,
+      "height": 240
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/a-/ACSszfES--iTs_ZfC-sog4CoHYmoWlppVKxCMX9YUg=s800-mo-c-c0xffffffff-rj-k-no",
+      "width": 800,
+      "height": 800
+     }
+    },
+    "localized": {
+     "title": "Annalisa Bovone",
+     "description": ""
+    }
+   },
+   "contentDetails": {
+    "relatedPlaylists": {
+     "uploads": "UUnlgdfqucEal83r8MvcBXtQ",
+     "watchHistory": "HL",
+     "watchLater": "WL"
+    }
+   },
+   "statistics": {
+    "viewCount": "38",
+    "commentCount": "0",
+    "subscriberCount": "10",
+    "hiddenSubscriberCount": false,
+    "videoCount": "3"
+   }
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "kind": "youtube#commentListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/VmyMySn4kigrWF3HNuU4JwlI1LE\"",
+ "nextPageToken": "R0FJeVBnb2NJTmFWczU2YXpOMENNaEVRQUJqdnhvS1JoWXZjQWlBQktBTXdDaEllQ0FVU0dsVm5kMWRQWkZvemVWSnRka05NUmpaV1lVSTBRV0ZCUWtGbk9pQUlBUkljTlRwVlozZFhUMlJhTTNsU2JYWkRURVkyVm1GQ05FRmhRVUpCWnc=",
+ "pageInfo": {
+  "resultsPerPage": 20
+ },
+ "items": [
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/s9ZrEBB4scCst4qREE3_JzSut68\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8jeYs57uR5P",
+   "snippet": {
+    "authorDisplayName": "Marcello Morelli",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-Lh8RBlwWKBk/AAAAAAAAAAI/AAAAAAAAAAA/Rb-QAPeGm0o/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UC0iuKsLULQWd7AlzkPVj2FQ",
+    "authorChannelId": {
+     "value": "UC0iuKsLULQWd7AlzkPVj2FQ"
+    },
+    "textDisplay": "ma e il vostro lavoro e siete pure pagati cosa ti lamenti",
+    "textOriginal": "ma e il vostro lavoro e siete pure pagati cosa ti lamenti",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-08-07T18:46:20.000Z",
+    "updatedAt": "2018-08-07T18:46:20.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XcfSjaHdyBPs_e8rp4tkrJW-qz8\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8jUuHBeAMkT",
+   "snippet": {
+    "authorDisplayName": "Olindo ventotto",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-_SnyFsa3qDg/AAAAAAAAAAI/AAAAAAAAAAA/H7aZadf1cuU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCrDoS5Uf2M8BP4HCv05XEmg",
+    "authorChannelId": {
+     "value": "UCrDoS5Uf2M8BP4HCv05XEmg"
+    },
+    "textDisplay": "Lucrezia Ferrante brava lucrezia... almeno  tu lo hai detto in italiano corretto",
+    "textOriginal": "Lucrezia Ferrante brava lucrezia... almeno  tu lo hai detto in italiano corretto",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-08-03T15:30:29.000Z",
+    "updatedAt": "2018-08-03T15:30:29.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/tcgoe0jvm7v_WvJ9a5ej4YIqM8E\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8jQ31CQb-kL",
+   "snippet": {
+    "authorDisplayName": "anna carlucci",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-aJkw7-CT3Fo/AAAAAAAAAAI/AAAAAAAAAAA/LxIfXp2GVZQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCGLHq5olbt-mF7zuSIkbllA",
+    "authorChannelId": {
+     "value": "UCGLHq5olbt-mF7zuSIkbllA"
+    },
+    "textDisplay": "bellissimo video ♥♥",
+    "textOriginal": "bellissimo video ♥♥",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-08-01T18:19:29.000Z",
+    "updatedAt": "2018-08-01T18:19:29.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ruQFdYYhcRm8U7E3NVxzaZcUA0g\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8jPg172YI2h",
+   "snippet": {
+    "authorDisplayName": "zia gina",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-mrQ2A9fIVHI/AAAAAAAAAAI/AAAAAAAAAAA/XKPzSKWo2m4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCRw3amUgZFrCW9-_fFK_dJA",
+    "authorChannelId": {
+     "value": "UCRw3amUgZFrCW9-_fFK_dJA"
+    },
+    "textDisplay": "Nadia Zanotti ciao, Ermal l&#39;ultimo suo concerto del tour &quot; Non abbiamo armi&quot; lo farà in Svizzera a Lugano !!!!",
+    "textOriginal": "Nadia Zanotti ciao, Ermal l'ultimo suo concerto del tour \" Non abbiamo armi\" lo farà in Svizzera a Lugano !!!!",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-08-01T14:49:45.000Z",
+    "updatedAt": "2018-08-01T14:49:45.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5KKGYx8SP5HvI3V7OI0VzojFO3Y\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8jPfjBQljOq",
+   "snippet": {
+    "authorDisplayName": "zia gina",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-mrQ2A9fIVHI/AAAAAAAAAAI/AAAAAAAAAAA/XKPzSKWo2m4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCRw3amUgZFrCW9-_fFK_dJA",
+    "authorChannelId": {
+     "value": "UCRw3amUgZFrCW9-_fFK_dJA"
+    },
+    "textDisplay": "Rita Stefanelli , N&#39;è valsa......",
+    "textOriginal": "Rita Stefanelli , N'è valsa......",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-08-01T14:47:10.000Z",
+    "updatedAt": "2018-08-01T14:47:10.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KGp7Y0v8EdPyFijDhAm4jLiT13o\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8j1rJYRasY7",
+   "snippet": {
+    "authorDisplayName": "Verde - Cristiano Fontana",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-0YHmQQ2ADZg/AAAAAAAAAAI/AAAAAAAAAAA/NEFH8l45xGc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCvvAnNa9g_nHmiK3rh90myA",
+    "authorChannelId": {
+     "value": "UCvvAnNa9g_nHmiK3rh90myA"
+    },
+    "textDisplay": "Slimdogs Ciao ragazzi, scrivo canzoni mie per passione. Se vi va datemi un ascolto, grazie!",
+    "textOriginal": "Slimdogs Ciao ragazzi, scrivo canzoni mie per passione. Se vi va datemi un ascolto, grazie!",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-07-23T08:46:37.000Z",
+    "updatedAt": "2018-07-23T08:46:37.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gwaub9rpF6r9HPrjmu1Q9Nxh27w\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8imXYWqSt3F",
+   "snippet": {
+    "authorDisplayName": "Beatrice Ms 13",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-4M2uVPPOhCM/AAAAAAAAAAI/AAAAAAAAAAA/5kKf7NgUOhM/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UC5BI_X_Cvt7z72zyQ8X5poQ",
+    "authorChannelId": {
+     "value": "UC5BI_X_Cvt7z72zyQ8X5poQ"
+    },
+    "textDisplay": "La passione ❤️",
+    "textOriginal": "La passione ❤️",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-07-17T00:37:19.000Z",
+    "updatedAt": "2018-07-17T00:37:19.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PKbOp9-S0-P54hwQ-n0sSoe0qbQ\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8iSLO5dnxqK",
+   "snippet": {
+    "authorDisplayName": "Andrea Falzone",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-2Vcr_1nDSxU/AAAAAAAAAAI/AAAAAAAAAAA/An_R-qh83o0/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UC0pL5UVv57I8B1xRAZZNF4Q",
+    "authorChannelId": {
+     "value": "UC0pL5UVv57I8B1xRAZZNF4Q"
+    },
+    "textDisplay": "grandissimi! vi siedo da poco e mi piacciano molto i vostri video e soprattutto produzioni!",
+    "textOriginal": "grandissimi! vi siedo da poco e mi piacciano molto i vostri video e soprattutto produzioni!",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-07-08T19:06:59.000Z",
+    "updatedAt": "2018-07-08T19:06:59.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UItWgLJY3TijIASM4GdwSDm59Uw\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8iRslLgWNsP",
+   "snippet": {
+    "authorDisplayName": "TheMISSMINNIE88",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-IAGYlv9qlhs/AAAAAAAAAAI/AAAAAAAAAAA/YGINIotMdMc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCuAbb0_8xNIx0IL2Gf5v_eg",
+    "authorChannelId": {
+     "value": "UCuAbb0_8xNIx0IL2Gf5v_eg"
+    },
+    "textDisplay": "Siete stati bravissimi, un video allegro, colorato 😊bellissimo",
+    "textOriginal": "Siete stati bravissimi, un video allegro, colorato 😊bellissimo",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-07-08T14:48:09.000Z",
+    "updatedAt": "2018-07-08T14:48:09.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ElrnIIuOQk_d3mQi_JFZ0ypG7cU\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8iRhKGuHc6Y",
+   "snippet": {
+    "authorDisplayName": "Anna Sambruna",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-i0FZy9n8S_c/AAAAAAAAAAI/AAAAAAAAAAA/OTPIGpXRDZY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCB2dHXQVUlOnFXKZrNN8VSw",
+    "authorChannelId": {
+     "value": "UCB2dHXQVUlOnFXKZrNN8VSw"
+    },
+    "textDisplay": "Bellissimo video lupi   . Trasmettere vitalità. Bravissimi 😙",
+    "textOriginal": "Bellissimo video lupi   . Trasmettere vitalità. Bravissimi 😙",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 1,
+    "publishedAt": "2018-07-08T13:08:12.000Z",
+    "updatedAt": "2018-07-08T13:08:12.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Phg8Rd6bmecdA66TvR-8g-Okics\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8iRb8U3hNtJ",
+   "snippet": {
+    "authorDisplayName": "Nadia Zanotti",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-4HsaEGrBGGk/AAAAAAAAAAI/AAAAAAAAAAA/P_RmdUpskd8/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCHpPqnMH-9yW06v3q_xSDLw",
+    "authorChannelId": {
+     "value": "UCHpPqnMH-9yW06v3q_xSDLw"
+    },
+    "textDisplay": "Gran bel lavoro ragazzi! Saluti dalla Svizzera 💛 P.S. perchè non fate un salto al Festival Internazionale del film di Locarno? trovereste ottimo pane per i vostri denti 📽",
+    "textOriginal": "Gran bel lavoro ragazzi! Saluti dalla Svizzera 💛 P.S. perchè non fate un salto al Festival Internazionale del film di Locarno? trovereste ottimo pane per i vostri denti 📽",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-07-08T12:14:10.000Z",
+    "updatedAt": "2018-07-08T12:14:10.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8LHaXqpksQZHCSjvYUYryxCXf5o\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8iQFcdcuVZr",
+   "snippet": {
+    "authorDisplayName": "SAN GIUDA ユダ",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-MxG1l3i_8DY/AAAAAAAAAAI/AAAAAAAAAAA/ag3HJTIggxw/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCsmX8K_zoNAeG80W7whRemw",
+    "authorChannelId": {
+     "value": "UCsmX8K_zoNAeG80W7whRemw"
+    },
+    "textDisplay": "Spero siate riusciti a togliere i colori dalla telecamere almeno tanto quanto ErmalMeta è riuscito a togliere l&#39;italiano dalla canzone!! &quot; alla mia vita GLI voglio BBBEEENE&quot; alla mia SQUOLA GLI VOLLIO BENEEE",
+    "textOriginal": "Spero siate riusciti a togliere i colori dalla telecamere almeno tanto quanto ErmalMeta è riuscito a togliere l'italiano dalla canzone!! \" alla mia vita GLI voglio BBBEEENE\" alla mia SQUOLA GLI VOLLIO BENEEE",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-07-07T23:38:12.000Z",
+    "updatedAt": "2018-07-07T23:38:12.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5d9gukPzeVpANK-A2My_13EDX8g\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8iPYT0Xioab",
+   "snippet": {
+    "authorDisplayName": "Dionisio El Moro",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-O-6mViEEx8Q/AAAAAAAAAAI/AAAAAAAAAAA/_Vwa-9TlTOQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCj8nX1Btow_AYsVuCCnuQ7g",
+    "authorChannelId": {
+     "value": "UCj8nX1Btow_AYsVuCCnuQ7g"
+    },
+    "textDisplay": "è sul canale di canesecco",
+    "textOriginal": "è sul canale di canesecco",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 1,
+    "publishedAt": "2018-07-07T17:03:32.000Z",
+    "updatedAt": "2018-07-07T17:03:32.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/CwKVB4qJnUj0yNVvaK_CcFaTmK0\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8iPThgORUq1",
+   "snippet": {
+    "authorDisplayName": "Patrizia Chioc",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-4-21lFlA98k/AAAAAAAAAAI/AAAAAAAAAAA/eoo8OWpUcok/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UC0yqMQvFvxWwnjuzw_hT4-g",
+    "authorChannelId": {
+     "value": "UC0yqMQvFvxWwnjuzw_hT4-g"
+    },
+    "textDisplay": "non vedo l&#39;ora di vedere il backstage",
+    "textOriginal": "non vedo l'ora di vedere il backstage",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-07-07T16:21:59.000Z",
+    "updatedAt": "2018-07-07T16:21:59.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/yX5pOgLFqvINXih3-Av0hdHEoKQ\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8iPLijwHcTb",
+   "snippet": {
+    "authorDisplayName": "Dionisio El Moro",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-O-6mViEEx8Q/AAAAAAAAAAI/AAAAAAAAAAA/_Vwa-9TlTOQ/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCj8nX1Btow_AYsVuCCnuQ7g",
+    "authorChannelId": {
+     "value": "UCj8nX1Btow_AYsVuCCnuQ7g"
+    },
+    "textDisplay": "ho visto questo video dopo aver visto i backstage !\u003cbr /\u003eBravi tutti !",
+    "textOriginal": "ho visto questo video dopo aver visto i backstage !\nBravi tutti !",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-07-07T15:12:13.000Z",
+    "updatedAt": "2018-07-07T15:12:13.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/maMDHaGgVceCnX9kECskVvoYDIw\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8iOr3yzEpN3",
+   "snippet": {
+    "authorDisplayName": "mariylu",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-4MWRXpprd_w/AAAAAAAAAAI/AAAAAAAAAAA/p_HesYptzD4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCpqvlbBMSsPf_EoFbpl1oUQ",
+    "authorChannelId": {
+     "value": "UCpqvlbBMSsPf_EoFbpl1oUQ"
+    },
+    "textDisplay": "canzoni e video uno più bello dell&#39;altro COMPLIMENTI!!! 💗💗💗💗💗",
+    "textOriginal": "canzoni e video uno più bello dell'altro COMPLIMENTI!!! 💗💗💗💗💗",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 1,
+    "publishedAt": "2018-07-07T10:35:38.000Z",
+    "updatedAt": "2018-07-07T10:35:38.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BetaMssZ4h0rF62Uc-hMuTBLPcQ\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8iOdK6g6aQU",
+   "snippet": {
+    "authorDisplayName": "Rita Stefanelli",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-OacfX-Fl1Hw/AAAAAAAAAAI/AAAAAAAAAAA/HMKGrzpniTk/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCTKKfsS6i_qCiplgxFLWpgw",
+    "authorChannelId": {
+     "value": "UCTKKfsS6i_qCiplgxFLWpgw"
+    },
+    "textDisplay": "Ne valsa la pena per un artista come lui...",
+    "textOriginal": "Ne valsa la pena per un artista come lui...",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-07-07T08:35:30.000Z",
+    "updatedAt": "2018-07-07T08:35:30.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/tbDk_TcVFCjah8KBbLxloAPAG5c\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8iNePQIp3Mg",
+   "snippet": {
+    "authorDisplayName": "Arion",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-cBTSMmuUPuQ/AAAAAAAAAAI/AAAAAAAAAAA/M8YXZd1vMzA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UC22zV4AzixtIokO1F9BKkcQ",
+    "authorChannelId": {
+     "value": "UC22zV4AzixtIokO1F9BKkcQ"
+    },
+    "textDisplay": "Grandissimi!",
+    "textOriginal": "Grandissimi!",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-07-06T23:25:43.000Z",
+    "updatedAt": "2018-07-06T23:25:43.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gxBcjifoaPNoEkQz10KPOeknn_0\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8iNDOOQ4peC",
+   "snippet": {
+    "authorDisplayName": "SuperSimonella",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-YEXUzByyV0w/AAAAAAAAAAI/AAAAAAAAAAA/dZwck06_ZFU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UC4uABSHau7OJ3lq-FMccmZw",
+    "authorChannelId": {
+     "value": "UC4uABSHau7OJ3lq-FMccmZw"
+    },
+    "textDisplay": "Vedere i video solo perché lo hanno fatto i cani.",
+    "textOriginal": "Vedere i video solo perché lo hanno fatto i cani.",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-07-06T19:20:55.000Z",
+    "updatedAt": "2018-07-06T19:20:55.000Z"
+   }
+  },
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vczIavDTzMSo_RqOgCc5ExMgFT8\"",
+   "id": "UgwWOdZ3yRmvCLF6VaB4AaABAg.8iM0cUfd_ka8iN3DCAGLGU",
+   "snippet": {
+    "authorDisplayName": "Alessandro La Rocca",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-8Yj4NUgETSk/AAAAAAAAAAI/AAAAAAAAAAA/AzdAznQJBSA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCmYmY1PxxUN7kiUyrh1ScXQ",
+    "authorChannelId": {
+     "value": "UCmYmY1PxxUN7kiUyrh1ScXQ"
+    },
+    "textDisplay": "Ragazzi, ma sbaglio o il locale in cui c&#39;è la scena dei colori è lo stesso in cui si trova il bar del film \u003ci\u003eRimetti a noi i nostri debiti\u003c/i\u003e ? 😮Comunque ottimo lavoro!",
+    "textOriginal": "Ragazzi, ma sbaglio o il locale in cui c'è la scena dei colori è lo stesso in cui si trova il bar del film _Rimetti a noi i nostri debiti_ ? 😮Comunque ottimo lavoro!",
+    "parentId": "UgwWOdZ3yRmvCLF6VaB4AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-07-06T17:52:00.000Z",
+    "updatedAt": "2018-07-06T17:52:00.000Z"
+   }
+  }
+ ]
+}

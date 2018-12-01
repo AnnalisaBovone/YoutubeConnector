@@ -1,0 +1,30 @@
+{
+ "kind": "youtube#commentListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vZUvwHuNHSOYGDwD8EvcGz00KD4\"",
+ "pageInfo": {
+  "resultsPerPage": 20
+ },
+ "items": [
+  {
+   "kind": "youtube#comment",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aDH_NPOcmTcW5d2ePRCNiN8qAcM\"",
+   "id": "Ugy1IwqTLYC8DVOIc114AaABAg.8kjzKZvDg388kk3DeY2v2U",
+   "snippet": {
+    "authorDisplayName": "Gitana Tzigana",
+    "authorProfileImageUrl": "https://yt3.ggpht.com/-7lVidDlHskM/AAAAAAAAAAI/AAAAAAAAAAA/bSt3BlQDTYs/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "authorChannelUrl": "http://www.youtube.com/channel/UCQg9YbNUn1VHng1RzXhu1hw",
+    "authorChannelId": {
+     "value": "UCQg9YbNUn1VHng1RzXhu1hw"
+    },
+    "textDisplay": "E allora dov&#39;è il problema?? Una nel suo canale può mettere quello che le pare",
+    "textOriginal": "E allora dov'è il problema?? Una nel suo canale può mettere quello che le pare",
+    "parentId": "Ugy1IwqTLYC8DVOIc114AaABAg",
+    "canRate": true,
+    "viewerRating": "none",
+    "likeCount": 0,
+    "publishedAt": "2018-09-03T18:36:38.000Z",
+    "updatedAt": "2018-09-03T18:36:38.000Z"
+   }
+  }
+ ]
+}

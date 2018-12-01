@@ -1,0 +1,651 @@
+{
+ "kind": "youtube#commentThreadListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/tOm2myi-iwx1aosn6p97ZhHEH-Y\"",
+ "nextPageToken": "QURTSl9pMldSYmF6Mm91RlE2Y3dYb0FDSTFHNGc3RzZRMmFXWkRtMmFlSFh2eXVHOFRNYlNMSVdlalVQWVhUNHY2eFg0bkxRTUUyQVFuTFBFN0FBdk82bVY3RHFnNnFFYWs2T2NIcndQRE9DeWw4NGdlcmhwVlBGeTlJaW5NaU0wTGs=",
+ "pageInfo": {
+  "totalResults": 20,
+  "resultsPerPage": 20
+ },
+ "items": [
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/TLQH8MgcfDRwwF5w_dxKtXzBTqU\"",
+   "id": "Ugy6lEw3mlxRx1QaksJ4AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HoEkve8bhYXCAepXlWp9JeiPjns\"",
+     "id": "Ugy6lEw3mlxRx1QaksJ4AaABAg",
+     "snippet": {
+      "authorDisplayName": "iosif gheraescu",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-xZ1KPraNDo0/AAAAAAAAAAI/AAAAAAAAAAA/8ZtacZlJ8CI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCaKWgnfqQ97uGOsBYE1o8zg",
+      "authorChannelId": {
+       "value": "UCaKWgnfqQ97uGOsBYE1o8zg"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Auguri",
+      "textOriginal": "Auguri",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-08-31T08:01:36.000Z",
+      "updatedAt": "2018-08-31T08:01:36.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/RuZchG-03-0RBU-tFbXsZHmIuJ0\"",
+   "id": "UgziWm7Rr8Y-TueZXG14AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/66-joMKFYhKpZlNDTFQOnAJGLws\"",
+     "id": "UgziWm7Rr8Y-TueZXG14AaABAg",
+     "snippet": {
+      "authorDisplayName": "nikkobia",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-50QAf3gClK4/AAAAAAAAAAI/AAAAAAAAAAA/jyCIQPPNWuY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCXjzckrCnaXED1DQyj3QPpA",
+      "authorChannelId": {
+       "value": "UCXjzckrCnaXED1DQyj3QPpA"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Io sono di Firenze😊",
+      "textOriginal": "Io sono di Firenze😊",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-08-31T07:04:39.000Z",
+      "updatedAt": "2018-08-31T07:04:39.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/u6Is7-haNXh0hAxtmq6ZNBbCvLM\"",
+   "id": "UgzvpOG7fIaV7wzb4S94AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lj90ctintBYW2jLYZT4nj_7qBzc\"",
+     "id": "UgzvpOG7fIaV7wzb4S94AaABAg",
+     "snippet": {
+      "authorDisplayName": "giuliamont",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-tW0JjFj2SIE/AAAAAAAAAAI/AAAAAAAAAAA/J7_b90H49Ao/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCjEQFcD9jy9sB8X0LQdErXQ",
+      "authorChannelId": {
+       "value": "UCjEQFcD9jy9sB8X0LQdErXQ"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Ciao posso chiederti quanti anno hai? Sembri una ragazza di 17/18 anni con quella voce da ragazzina",
+      "textOriginal": "Ciao posso chiederti quanti anno hai? Sembri una ragazza di 17/18 anni con quella voce da ragazzina",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-08-31T05:54:51.000Z",
+      "updatedAt": "2018-08-31T05:54:51.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9CpQ6zg5RdeY9YvHpcAfZLYoWvE\"",
+   "id": "UgzKFQ4AOIkOLqmDlL94AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/eZIqIQcK8Kg_zO8Bs9gG4aKNEBA\"",
+     "id": "UgzKFQ4AOIkOLqmDlL94AaABAg",
+     "snippet": {
+      "authorDisplayName": "Mariangela R.",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-RijrT6onlu8/AAAAAAAAAAI/AAAAAAAAAAA/mJNn6v-PvDs/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCpa3n5jwYMTcEFIc4My3TpA",
+      "authorChannelId": {
+       "value": "UCpa3n5jwYMTcEFIc4My3TpA"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "posti meravigliosi...ma la cosa che ogni volta mi lascia a bocca aperta è il gusto con cui hai arredato la tua casa a Torino!! fai un homeTour e ce la mostri!? un bacio 😙",
+      "textOriginal": "posti meravigliosi...ma la cosa che ogni volta mi lascia a bocca aperta è il gusto con cui hai arredato la tua casa a Torino!! fai un homeTour e ce la mostri!? un bacio 😙",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-08-31T04:59:28.000Z",
+      "updatedAt": "2018-08-31T04:59:28.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/686qMPutWWHjCKZjCapGxDfZKZw\"",
+   "id": "Ugx9Pp1jAWLedIQoOTR4AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hrIua0tNzOOXFqjdwj4GVXN3fYs\"",
+     "id": "Ugx9Pp1jAWLedIQoOTR4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Carlotta Poma",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-Gxc-TRneerk/AAAAAAAAAAI/AAAAAAAAAAA/3RyWa3cytHU/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCAP1XzFjgtbElsxriMHF9Iw",
+      "authorChannelId": {
+       "value": "UCAP1XzFjgtbElsxriMHF9Iw"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Siete troppo carini te e il tuo ragazzo continua così 😘",
+      "textOriginal": "Siete troppo carini te e il tuo ragazzo continua così 😘",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-08-30T23:11:28.000Z",
+      "updatedAt": "2018-08-30T23:11:28.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/olpVmzT81oLLB2aP31PPJgBEpK8\"",
+   "id": "Ugy92UoyY2W7BoYeAcp4AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dCXBEEPdjBQIBaqGpvRxzygpRLA\"",
+     "id": "Ugy92UoyY2W7BoYeAcp4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Helena G.",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-lgJI8qas4pU/AAAAAAAAAAI/AAAAAAAAAAA/iYRYndXRodg/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCSoOKfkGWsXaHmQA1iCkVQA",
+      "authorChannelId": {
+       "value": "UCSoOKfkGWsXaHmQA1iCkVQA"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Adoro questo video...con questa musica,questi paesaggi e questa splendida cascata con l arcobaleno...un bacio 😘😘😘😘",
+      "textOriginal": "Adoro questo video...con questa musica,questi paesaggi e questa splendida cascata con l arcobaleno...un bacio 😘😘😘😘",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-08-30T21:19:53.000Z",
+      "updatedAt": "2018-08-30T21:19:53.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/oNCJ1fkjAihqZIwd5ibznlT-v2M\"",
+   "id": "Ugww5EArx_i5xzS1Xd94AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ryAPVPMTyfEyMoCD2jVVByMvG1k\"",
+     "id": "Ugww5EArx_i5xzS1Xd94AaABAg",
+     "snippet": {
+      "authorDisplayName": "Laura  Montaldi",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-Cyp0gRYcEQ8/AAAAAAAAAAI/AAAAAAAAAAA/IpnfFkiww_U/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCxV4pYlz1i1IHn6rJUTtTJA",
+      "authorChannelId": {
+       "value": "UCxV4pYlz1i1IHn6rJUTtTJA"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Da brivido.....in poco più  di 5 minuti hai raccontato la  bellezza delle tue vacanze....ma come fai?🤩",
+      "textOriginal": "Da brivido.....in poco più  di 5 minuti hai raccontato la  bellezza delle tue vacanze....ma come fai?🤩",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 2,
+      "publishedAt": "2018-08-30T20:33:40.000Z",
+      "updatedAt": "2018-08-30T20:33:40.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/i3QhpZmoPVpICVVnOZ-ncG66qkw\"",
+   "id": "UgyretTGczW8t0DUgi14AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/tOzhw7r2laf32Nkj65HV8pTd9Po\"",
+     "id": "UgyretTGczW8t0DUgi14AaABAg",
+     "snippet": {
+      "authorDisplayName": "Barbara Berardi",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-DsSZCF1b2B0/AAAAAAAAAAI/AAAAAAAAAAA/MtrIj35h-mE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCJOQtJ_P7gfuwCL1lpOwhAw",
+      "authorChannelId": {
+       "value": "UCJOQtJ_P7gfuwCL1lpOwhAw"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Aggiungo: &quot;abbiamo tutti UN DISPERATO bisogno dell&#39;incanto&quot;!\u003cbr /\u003e( Hai un&#39;importante missione da svolgere. Ed è nel tuo DNA, una sorta di vocazione.........)",
+      "textOriginal": "Aggiungo: \"abbiamo tutti UN DISPERATO bisogno dell'incanto\"!\n( Hai un'importante missione da svolgere. Ed è nel tuo DNA, una sorta di vocazione.........)",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 2,
+      "publishedAt": "2018-08-30T19:36:50.000Z",
+      "updatedAt": "2018-08-30T19:36:50.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3Osc4FTfhCP961grmFYY8A43AeQ\"",
+   "id": "UgwhpbO6iQudGxUEk2h4AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/i_nlJ7YBnLhVV1LrvgCOed8P5jM\"",
+     "id": "UgwhpbO6iQudGxUEk2h4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Barbara Berardi",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-DsSZCF1b2B0/AAAAAAAAAAI/AAAAAAAAAAA/MtrIj35h-mE/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCJOQtJ_P7gfuwCL1lpOwhAw",
+      "authorChannelId": {
+       "value": "UCJOQtJ_P7gfuwCL1lpOwhAw"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Con il tuo modo fiabesco e magico di raccontare le città diventano ancora + belle! C&#39;è tanta poesia nelle inquadrature che hai selezionato per noi.\u003cbr /\u003eGrazie x averlo fatto!\u003cbr /\u003eMi piace pure come è arredata la tua casa, c&#39;è un&#39;atmosfera intima ed accogliente. È un ambiente che ti rispecchia molto e &quot;quella finestra&quot; è un incanto!!!!!!!!\u003cbr /\u003eTu non puoi non avere la pelle diafana, i capelli lunghi, la vocina delicata e sottile, un gatto per amico 🐈, un cappellino grazioso ed una cucina che profuma di biscotti.....Assomigli ad una fatina, un elfo, una creatura dei boschi capace di trovare il meraviglioso nell&#39;ordinario quotidiano. Hai  immaginazione, sensibilità e creatività...Coltiva questi tuoi preziose qualità e non stancarti mai di condividerle con gli altri. Abbiamo tutti bisogno dell&#39;incanto 😍😘😆😉",
+      "textOriginal": "Con il tuo modo fiabesco e magico di raccontare le città diventano ancora + belle! C'è tanta poesia nelle inquadrature che hai selezionato per noi.\nGrazie x averlo fatto!\nMi piace pure come è arredata la tua casa, c'è un'atmosfera intima ed accogliente. È un ambiente che ti rispecchia molto e \"quella finestra\" è un incanto!!!!!!!!\nTu non puoi non avere la pelle diafana, i capelli lunghi, la vocina delicata e sottile, un gatto per amico 🐈, un cappellino grazioso ed una cucina che profuma di biscotti.....Assomigli ad una fatina, un elfo, una creatura dei boschi capace di trovare il meraviglioso nell'ordinario quotidiano. Hai  immaginazione, sensibilità e creatività...Coltiva questi tuoi preziose qualità e non stancarti mai di condividerle con gli altri. Abbiamo tutti bisogno dell'incanto 😍😘😆😉",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2018-08-30T19:33:38.000Z",
+      "updatedAt": "2018-08-30T19:33:38.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/i6Rz2xgoRUDxFswruL050R5VXIQ\"",
+   "id": "UgxEJ7l97cirHNSb3zB4AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/W3oprUv3MD7mbUjuVE7KgSi6fP8\"",
+     "id": "UgxEJ7l97cirHNSb3zB4AaABAg",
+     "snippet": {
+      "authorDisplayName": "BrbrMen",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-nYSF9wmOAdA/AAAAAAAAAAI/AAAAAAAAAAA/4--y2-_2DUo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC0G9_5aLReOJa0N9-fLUoMQ",
+      "authorChannelId": {
+       "value": "UC0G9_5aLReOJa0N9-fLUoMQ"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Che meraviglia il tuo Wolly! Bellissimo il messaggio che ha lasciato di portare gli animali in vacanza ❤️",
+      "textOriginal": "Che meraviglia il tuo Wolly! Bellissimo il messaggio che ha lasciato di portare gli animali in vacanza ❤️",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-08-30T19:23:23.000Z",
+      "updatedAt": "2018-08-30T19:23:23.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/igzUj1AQzq3WYv3yb1F2SLx0zyw\"",
+   "id": "UgwszvAWisPK7E3mmkd4AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8Nk_zLoiTvv02A8Ofx6Z7hwtgDE\"",
+     "id": "UgwszvAWisPK7E3mmkd4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Karin Battistella",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-wUQYH66DFGc/AAAAAAAAAAI/AAAAAAAAAAA/suxc2rYbflo/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCl8h6lYRCmwghp4fuE1pk-Q",
+      "authorChannelId": {
+       "value": "UCl8h6lYRCmwghp4fuE1pk-Q"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Adoro😍😍nuova uscita assolutamente...",
+      "textOriginal": "Adoro😍😍nuova uscita assolutamente...",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-08-30T19:13:14.000Z",
+      "updatedAt": "2018-08-30T19:13:14.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-kOcuctqkkvUEEZAcQzW72DUfHI\"",
+   "id": "UgwI-NZmC2Qlqq5CMvd4AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/M15j0wHnzc_jZXnMmIvL2rU3R2Q\"",
+     "id": "UgwI-NZmC2Qlqq5CMvd4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Raffaella Scarpa",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-RxqYHVUd-RY/AAAAAAAAAAI/AAAAAAAAAAA/nbpTfg5f1m4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UC3j6L6ojxPpXr1GOoZxR-Zw",
+      "authorChannelId": {
+       "value": "UC3j6L6ojxPpXr1GOoZxR-Zw"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Ciao farina dolce, che spettacolo questi posti.... Firenze la conosco,mq la Puglia è mozzafiato. Mi sono emozionata a vedere un pezzetto del tuo mondo.Un abbraccio a Wally",
+      "textOriginal": "Ciao farina dolce, che spettacolo questi posti.... Firenze la conosco,mq la Puglia è mozzafiato. Mi sono emozionata a vedere un pezzetto del tuo mondo.Un abbraccio a Wally",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 1,
+      "publishedAt": "2018-08-30T18:57:35.000Z",
+      "updatedAt": "2018-08-30T18:57:35.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/iq9kEVOz1xsrWz5C_C0uWT6TEiE\"",
+   "id": "Ugy9u6jz8JUNo1dcjwx4AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/iC7cPEZqPC00iUKembVX09Wdfr0\"",
+     "id": "Ugy9u6jz8JUNo1dcjwx4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Sussurro Abissale",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-CFH5Wm0EHDs/AAAAAAAAAAI/AAAAAAAAAAA/iUCcYQakS6U/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCoKSDo005bNO__6m8B1BwRw",
+      "authorChannelId": {
+       "value": "UCoKSDo005bNO__6m8B1BwRw"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Mi hai fatto ricordare di quando visitai Firenze. Mi piacciono molto i tuoi video perchè danno proprio l&#39;impressione di essere curati al dettaglio. Amo anche la colonna sonora vintage!",
+      "textOriginal": "Mi hai fatto ricordare di quando visitai Firenze. Mi piacciono molto i tuoi video perchè danno proprio l'impressione di essere curati al dettaglio. Amo anche la colonna sonora vintage!",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-08-30T18:43:19.000Z",
+      "updatedAt": "2018-08-30T18:43:19.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/yxs5BjFWWAN9mxnv3-ORQCjzB_k\"",
+   "id": "UgyH7H0U4kzN2vcUccx4AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XJ8fw0WXBmjsfyFE_YHYjUi57oY\"",
+     "id": "UgyH7H0U4kzN2vcUccx4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Marika Stievano",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-XozPSJGdBFg/AAAAAAAAAAI/AAAAAAAAAAA/RWB4-f79nRY/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCfuFelotkV8Lwisy-vkjYyA",
+      "authorChannelId": {
+       "value": "UCfuFelotkV8Lwisy-vkjYyA"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Adoro come monti i video, ti giuro. Ho conosciuto il tuo canale per caso e ne sono rimasta subito colpita.",
+      "textOriginal": "Adoro come monti i video, ti giuro. Ho conosciuto il tuo canale per caso e ne sono rimasta subito colpita.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-08-30T18:16:52.000Z",
+      "updatedAt": "2018-08-30T18:16:52.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mFI80BTvUmiwHDDm59e2PlJp-64\"",
+   "id": "Ugw5dgd8Wvw0I8pL82N4AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/14_jLf3FFMkwa34BEf186bSbgF4\"",
+     "id": "Ugw5dgd8Wvw0I8pL82N4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Mariagrazia Cerbone",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-W6YwKL9W3rw/AAAAAAAAAAI/AAAAAAAAAAA/T7HFz--H4yc/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCLIv7wEIpRFbhsQmSEdMJ_w",
+      "authorChannelId": {
+       "value": "UCLIv7wEIpRFbhsQmSEdMJ_w"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Lo aspettavo da tanto",
+      "textOriginal": "Lo aspettavo da tanto",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 2,
+      "publishedAt": "2018-08-30T18:13:50.000Z",
+      "updatedAt": "2018-08-30T18:13:50.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gN2IHh5v5h6A8gjxm-7KqK9cuL0\"",
+   "id": "Ugzl3EiIB00br9HbvJJ4AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3K7AtcR8u5WbbbAGPcLmAm7B3O0\"",
+     "id": "Ugzl3EiIB00br9HbvJJ4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Clelia ciccibea",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-hI8qO2KDwGE/AAAAAAAAAAI/AAAAAAAAAAA/ufZd_RE1PyI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCFHwd1HjLiYWEl9PHg6kAAw",
+      "authorChannelId": {
+       "value": "UCFHwd1HjLiYWEl9PHg6kAAw"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Grazie mille per aver condiviso con noi la tua bellissima vacanza... anche per me Puglia = casa ❤️",
+      "textOriginal": "Grazie mille per aver condiviso con noi la tua bellissima vacanza... anche per me Puglia = casa ❤️",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-08-30T18:11:03.000Z",
+      "updatedAt": "2018-08-30T18:11:03.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/oaXw3HMYJ77NFdrvgyagpOocErA\"",
+   "id": "UgxeWju9o159HBb6F2N4AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/0W3Kc1uhRpPnElQQUjWoh6q0cDg\"",
+     "id": "UgxeWju9o159HBb6F2N4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Lulù Visconti",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-C6B2bGTHOj4/AAAAAAAAAAI/AAAAAAAAAAA/hy4UHuoYis4/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCOUBGr0sJR7_FZwjH55T14A",
+      "authorChannelId": {
+       "value": "UCOUBGr0sJR7_FZwjH55T14A"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Ho sussultato prima di aprire il tuo video.. Sapevo che uno dei personaggi principali sarebbe stato ancora una volta il tuo micio. Ho perso il mio, adorato, da pochi giorni. A Wally auguro una vita lunga e felice insieme a voi. Un forte abbraccio..e una carezza a Wally",
+      "textOriginal": "Ho sussultato prima di aprire il tuo video.. Sapevo che uno dei personaggi principali sarebbe stato ancora una volta il tuo micio. Ho perso il mio, adorato, da pochi giorni. A Wally auguro una vita lunga e felice insieme a voi. Un forte abbraccio..e una carezza a Wally",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-08-30T17:06:26.000Z",
+      "updatedAt": "2018-08-30T17:06:26.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Oc09O6ZURA3R7TdvZNZ1nKC8eBk\"",
+   "id": "UgyePaxcUC2iTNMDqDJ4AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/w53P04QvsdJnya8YS8VAeDQCWYU\"",
+     "id": "UgyePaxcUC2iTNMDqDJ4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Eleonora Bruno",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-bs3akTt1bWM/AAAAAAAAAAI/AAAAAAAAAAA/ofhePB9xAbk/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCFgRbHpW6Rg5WXqtzEDlimA",
+      "authorChannelId": {
+       "value": "UCFgRbHpW6Rg5WXqtzEDlimA"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Che bel video! E anche le canzoni che hai scelto mi piacciono molto :)",
+      "textOriginal": "Che bel video! E anche le canzoni che hai scelto mi piacciono molto :)",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-08-30T16:59:10.000Z",
+      "updatedAt": "2018-08-30T16:59:10.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6RRUDWa5uFBCqUhngRkgoYAwZ1I\"",
+   "id": "UgxViTphDquFYO9g3bl4AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/G3UjPSC3G134r3V5hh-TCLUYMYo\"",
+     "id": "UgxViTphDquFYO9g3bl4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Matilde Lastrucci",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-kMz7z4bXEPE/AAAAAAAAAAI/AAAAAAAAAAA/GXLteFSH-aA/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCeR1_7iaXGeuU6aEzuIi5eQ",
+      "authorChannelId": {
+       "value": "UCeR1_7iaXGeuU6aEzuIi5eQ"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Ti è piaciuta Firenze?",
+      "textOriginal": "Ti è piaciuta Firenze?",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 0,
+      "publishedAt": "2018-08-30T16:53:00.000Z",
+      "updatedAt": "2018-08-30T16:53:00.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  },
+  {
+   "kind": "youtube#commentThread",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/J5tWLNVbpz23CVsnNbHq7zX9flk\"",
+   "id": "UgzymY8hqzsybJRlRXt4AaABAg",
+   "snippet": {
+    "videoId": "jP4sAj9O8Ps",
+    "topLevelComment": {
+     "kind": "youtube#comment",
+     "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/FwDOos0X2YyDIdhK9rIkX2tSoo0\"",
+     "id": "UgzymY8hqzsybJRlRXt4AaABAg",
+     "snippet": {
+      "authorDisplayName": "Miriam Lanzarotti",
+      "authorProfileImageUrl": "https://yt3.ggpht.com/-mowkFnE1XGQ/AAAAAAAAAAI/AAAAAAAAAAA/VopK2LZ2CqI/s28-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "authorChannelUrl": "http://www.youtube.com/channel/UCcGZTi4QxYq1xbIfYPGzp9Q",
+      "authorChannelId": {
+       "value": "UCcGZTi4QxYq1xbIfYPGzp9Q"
+      },
+      "videoId": "jP4sAj9O8Ps",
+      "textDisplay": "Bravissima bellissimo video e auguri per il tuo compleanno 🎂un abbraccio e coccola walle🐱ciao a presto 🙋.",
+      "textOriginal": "Bravissima bellissimo video e auguri per il tuo compleanno 🎂un abbraccio e coccola walle🐱ciao a presto 🙋.",
+      "canRate": true,
+      "viewerRating": "none",
+      "likeCount": 2,
+      "publishedAt": "2018-08-30T16:41:34.000Z",
+      "updatedAt": "2018-08-30T16:41:34.000Z"
+     }
+    },
+    "canReply": true,
+    "totalReplyCount": 0,
+    "isPublic": true
+   }
+  }
+ ]
+}
